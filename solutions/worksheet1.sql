@@ -16,7 +16,8 @@ Structured Query Language... MySQL is a relational database management software
 
 -- question 5 Write two examples of DBMS software.
 -- Answer
-MongoDb and MySQL
+structured query language and no structured query language
+  MongoDb and MySQL
 
 -- question 6 Sherifat wants to make the database named ‘COMPANY’ active. Write MySQL commands for it.
 -- Answer
